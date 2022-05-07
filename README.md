@@ -7,6 +7,8 @@ Learn Python step by step with tasks
 1. [Learn Python Programming](https://www.programiz.com/python-programming)
 2. [A Byte of Python](https://wombat.org.ua/AByteOfPython/toc.html)
 3. [Самоучитель Python](https://pythonworld.ru/samouchitel-python)
+4. [Основы Python](https://pyneng.readthedocs.io/ru/latest/book/01_intro/index.html)
+5. [Уроки по Python](https://devpractice.ru/category/python/python-lessons/page/3/)
 
 **Ideas for tasks:**
 1. [Задачи по Python для начинающих от Tproger и GeekBrains](https://tproger.ru/problems/python-3-exercises-for-beginners-geekbrains/)
